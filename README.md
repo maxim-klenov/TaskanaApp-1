@@ -7,12 +7,20 @@
 ## О проекте
 
 
-[![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-3.0-brightgreen?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![ESLint](https://img.shields.io/badge/ESLint-8-yellowgreen?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-07ab6c?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Language: Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](#)
-[![Stack: vanilla JS](https://img.shields.io/badge/Stack-vanilla_JS-orange?style=for-the-badge)](#)
+![100% Human Made](https://img.shields.io/badge/100%25-Human_Made-brightgreen)
+![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Open Source](https://img.shields.io/badge/Open_Source-blue)
+![Language English](https://img.shields.io/badge/Language-RU-lightgrey) 
+
+### Технологии
+
+
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](#)
+[![JS](https://img.shields.io/badge/JavaScript-F7DC6F?logo=javascript&logoColor=black)](#)
 
 
 ## Структура репозитория
