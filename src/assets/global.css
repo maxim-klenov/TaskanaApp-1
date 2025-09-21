@@ -1,0 +1,13 @@
+/* export in main.jsx */
+@import "./fonts.css";
+@import "./variables.css";
+@import "./normalize.css";
+
+html {
+  font-size: var(--root-percent);
+}
+
+body {
+  font-family: var(--font-family-base);
+  font-weight: 400;
+}

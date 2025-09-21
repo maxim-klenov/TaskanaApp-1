@@ -1,0 +1,49 @@
+/* export in global.css */
+:root {
+  --color-neutral-0: #ffffff;
+  --color-neutral-100: #fbfbfb;
+  --color-neutral-200: #f3f3f3;
+  --color-neutral-300: #ececec;
+  --color-neutral-400: #bfbfbf;
+  --color-neutral-500: #8c8c8c;
+  --color-neutral-600: #6c6c6c;
+  --color-neutral-700: #393939;
+  --color-neutral-800: #1c1c1c;
+  --color-neutral-900: #141414;
+
+  --color-primary-0: #fff4f4;
+  --color-primary-100: #fab7b7;
+  --color-primary-200: #fca9a9;
+  --color-primary-300: #f25959;
+  --color-primary-400: #d51010;
+  --color-primary-500: #a60c0c;
+  --color-primary-600: #760909;
+  --color-primary-400-500: linear-gradient(#d51010, #a60c0c);
+
+  --color-base-black: #000;
+
+  --font-family-base: "Source Sans 3", sans-serif;
+  --font-weight-base: 400;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --root-percent: 62.5%;
+  --layout-container: 1280px;
+  --box-shadow-base: 2px 2px 4px 0px #00000033;
+  --z-index-base: 0;
+  --z-index-overflow: 10;
+  --z-index-overflow-2: 100;
+  --border-radius: 8px;
+
+  --size-2xs: 0.2rem;
+  --size-xs: 0.4rem;
+  --size-s: 0.8rem;
+  --size-sm: 1.2rem;
+  --size-m: 1.6rem;
+  --size-2ml: 1.8rem;
+  --size-ml: 2rem;
+  --size-l: 2.4rem;
+  --size-xl: 3.2rem;
+  --size-2xl: 4rem;
+  --size-2xml: 4.8rem;
+  --size-3xl: 6.4rem;
+}
