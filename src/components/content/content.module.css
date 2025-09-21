@@ -1,0 +1,6 @@
+.content {
+  display: grid;
+  padding-top: var(--size-3xl);
+  height: 100%;
+  grid-template-columns: 204px 1fr 400px;
+}

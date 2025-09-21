@@ -1,0 +1,14 @@
+.main {
+  width: 100%;
+  padding: var(--size-l);
+  height: calc(100% - 100px); /*heading height*/
+  color: var(--color-neutral-800);
+  /* padding-inline: var(--size-l); */
+  min-height: 431px;
+
+  &.hasNoTasks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

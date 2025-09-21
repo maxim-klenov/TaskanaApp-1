@@ -1,0 +1,18 @@
+.button {
+  min-width: 108px;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  gap: var(--size-s);
+  border: none;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow-base);
+  color: var(--color-neutral-0);
+  font-size: var(--size-m);
+
+  font-weight: var(--font-weight-semibold);
+  padding-block: var(--size-s);
+  padding-left: var(--size-sm);
+  padding-right: var(--size-m);
+  background-color: var(--color-primary-400);
+}

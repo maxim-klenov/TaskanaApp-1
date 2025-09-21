@@ -1,0 +1,10 @@
+.logo {
+  height: calc(var(--size-2xl) + 1rem); /* increase click radius */
+  width: 12.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  & img {
+    width: 100%;
+  }
+}

@@ -1,0 +1,17 @@
+.empty {
+  height: max(26.4rem, 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: var(--size-l);
+  text-align: center;
+  font-size: var(--size-m);
+  color: var(--color-neutral-800);
+
+  & img {
+    width: 23.1rem;
+    height: 16.8rem;
+    user-select: none;
+  }
+}

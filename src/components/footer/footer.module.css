@@ -1,0 +1,19 @@
+.footer {
+  height: 56px;
+  padding: var(--size-m) var(--size-l);
+  color: var(--color-neutral-600);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-neutral-0);
+
+  & span {
+    text-align: center;
+    font-size: var(--size-m);
+
+    & a {
+      color: var(--color-neutral-600);
+      text-decoration: underline;
+    }
+  }
+}

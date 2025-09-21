@@ -1,0 +1,17 @@
+.inner {
+  overflow-y: auto;
+  height: calc(100dvh - 12.6rem);
+}
+.heading {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: var(--z-index-overflow);
+  padding: var(--size-l);
+  font-weight: var(--font-weight-bold);
+  font-size: var(--size-xl);
+  color: var(--color-neutral-800);
+  background-color: var(--color-neutral-0);
+  z-index: var(--z-index-overflow);
+  line-height: 1.25;
+}

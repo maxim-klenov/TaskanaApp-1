@@ -1,0 +1,5 @@
+.sidebar {
+  padding: var(--size-l);
+  height: calc(100dvh - var(--size-3xl));
+  overflow-y: auto;
+}

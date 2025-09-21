@@ -1,0 +1,14 @@
+.header {
+  position: fixed;
+  z-index: var(--z-index-overflow-2);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: var(--size-3xl);
+  padding-block: var(--size-sm);
+  padding-right: var(--size-l);
+  padding-left: var(--size-m);
+  background-color: var(--color-base-black);
+  box-shadow: var(--box-shadow-base);
+}
